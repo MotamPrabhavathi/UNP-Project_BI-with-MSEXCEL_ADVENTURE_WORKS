@@ -3,5 +3,4 @@ Microsoft has made available an example database called AdventureWorks that is i
 
 PDFFILE https://drive.google.com/file/d/1LiwlmIxo4WBgHrHHsOlnCPvra9RKUr3G/view?usp=drivesdk
 
-EXCELFILE 
-https://drive.google.com/file/d/1LiwlmIxo4WBgHrHHsOlnCPvra9RKUr3G/view?usp=drivesdk
+EXCELFILE https://docs.google.com/spreadsheets/d/1Lr0Z3R4dfGk8rq0SVpOPu02el9rXAvWq/edit?usp=drivesdk&ouid=113638842636696003372&rtpof=true&sd=true
